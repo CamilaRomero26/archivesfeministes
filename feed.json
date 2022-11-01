@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ArchivesFeministes",
+    "description": "",
+    "home_page_url": "https://camilaromero26.github.io/archivesfeministes",
+    "feed_url": "https://camilaromero26.github.io/archivesfeministes/feed.json",
+    "user_comment": "",
+    "icon": "https://camilaromero26.github.io/archivesfeministes/media/website/feminisme-2.png",
+    "author": {
+        "name": "Camila Romero"
+    },
+    "items": [
+        {
+            "id": "https://camilaromero26.github.io/archivesfeministes/archives-feministes-2.html",
+            "url": "https://camilaromero26.github.io/archivesfeministes/archives-feministes-2.html",
+            "title": "Aspasie de Milet",
+            "summary": "Aspasie de Milet est née vers 470 av. J.-C. à Milet, ancienne cité grecque, et est décédée vers 400. Elle était une méthèque cultivée d'Athènes. Elle s'attira le respect de nombreux grands philosophes de son époque pour ses talents oratoires politiques. Son existence est notamment&hellip;",
+            "content_html": "<p>Aspasie de Milet est née vers 470 av. J.-C. à Milet, ancienne cité grecque, et est décédée vers 400. Elle était une méthèque cultivée d'Athènes. </p>\n<p>Elle s'attira le respect de nombreux grands philosophes de son époque pour ses talents oratoires politiques. Son existence est notamment mentionnée dans les écrits de Platon, Aristophane et Xénophon. </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://camilaromero26.github.io/archivesfeministes/media/posts/2/The_Debate_Of_Socrates_And_Aspasia_2.jpg\" sizes=\"100vw\" srcset=\"https://camilaromero26.github.io/archivesfeministes/media/posts/2/responsive/The_Debate_Of_Socrates_And_Aspasia_2-xs.jpg 300w ,https://camilaromero26.github.io/archivesfeministes/media/posts/2/responsive/The_Debate_Of_Socrates_And_Aspasia_2-sm.jpg 480w ,https://camilaromero26.github.io/archivesfeministes/media/posts/2/responsive/The_Debate_Of_Socrates_And_Aspasia_2-md.jpg 768w ,https://camilaromero26.github.io/archivesfeministes/media/posts/2/responsive/The_Debate_Of_Socrates_And_Aspasia_2-lg.jpg 1024w ,https://camilaromero26.github.io/archivesfeministes/media/posts/2/responsive/The_Debate_Of_Socrates_And_Aspasia_2-xl.jpg 1360w ,https://camilaromero26.github.io/archivesfeministes/media/posts/2/responsive/The_Debate_Of_Socrates_And_Aspasia_2-2xl.jpg 1600w\"  alt=\"Le débat de Socrate et Aspasie, Nicolas-André Monsiau, vers 1800\" width=\"787\" height=\"640\"></figure>\n<p><span class=\"mw-mmv-title\"><i>Le débat de Socrate et Aspasie</i>, Nicolas-André Monsiau, vers 1800.</span></p>\n<p>Source du texte et de l'image : https://fr.wikipedia.org/wiki/Aspasie</p>",
+            "author": {
+                "name": "Camila Romero"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-30T16:38:09+01:00",
+            "date_modified": "2022-10-30T17:02:34+01:00"
+        }
+    ]
+}

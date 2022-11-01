@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://camilaromero26.github.io/archivesfeministes/sitemap.xml
